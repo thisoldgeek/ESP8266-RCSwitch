@@ -18,3 +18,9 @@ This is a very quick-and-dirty demonstration to get you started!
 * Run the Serial Monitor from the new IDE to find the IP address or use your router's client tools to find it
 * http://"ESP8266ip"/sw1/0 = OFF; http://"ESP8266ip"/sw1/1 = ON
 
+## *Acknowledgements:*
+In no particular order-
+* http://timleland.com/wireless-power-outlets
+* http://makezine.com/2015/04/01/installing-building-arduino-sketch-5-microcontroller/
+* https://github.com/sandeepmistry/esp8266-Arduino
+
