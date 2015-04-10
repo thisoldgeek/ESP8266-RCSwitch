@@ -11,6 +11,7 @@ This is a very quick-and-dirty demonstration to get you started!
 * Add the RCSwitch Library from xxxxxx to your Arduino IDE
 * Find the codes for your RC Switch using https://github.com/ninjablocks/433Utils (RF_Sniffer.ino)
 * Modify the ESP8266-RCSwitch sketch, changing the on and off codes to the codes you sniffed using the RF_Sniffer and the outlet-supplied remote control
+* NOTE: EtekCity Remote Outlets use pulselength = 189
 * Modify the SSID and PASSWD values in the sketch to look for your WiFi router
 
 ## *Testing:*
